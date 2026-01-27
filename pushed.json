@@ -1,14 +1,4 @@
 {
-  "https://news.tvbs.com.tw/local/3108818": "快訊／三立電視外景車撞進南京東路銀行！10人受傷　婦人頭爆血急救中│TVBS新聞網",
-  "https://ec.ltn.com.tw/article/breakingnews/5319847": "霍諾德徒手攀台北101 台北101今晚點燈",
-  "https://news.nextapple.com/entertainment/20260123/ED434C739A7523A903AB1B3F29E37E42": "寬姐暖送圍巾、年菜給長輩　破億票房導演到場齊做公益｜壹蘋新聞網",
-  "https://news.nextapple.com/international/20260123/6EE3A104FA344F00422F8A0CF4BE3C74": "直播延遲10秒！霍諾德挑戰赤手獨攀101　Netflix轉播設安全機制｜壹蘋新聞網",
-  "https://news.nextapple.com/entertainment/20260123/122CFC9B4053090EAF98C08DC5F0BC55": "歌王、歌后確定參戰「大港開唱」 《灌籃高手》搖滾天團也來了｜壹蘋新聞網",
-  "https://news.nextapple.com/local/20260123/6D9D61FF1BE18988455B7D3216797A32": "三立採訪車衝撞中山區彰化銀行！現場多人受傷　婦倒地頭濺血｜壹蘋新聞網",
-  "https://news.nextapple.com/life/20260123/F5DD71E26491FB29E617BC2E35EECE57": "Netflix明直播霍諾德「赤手獨攀台北101」　北市府曝申請細節｜壹蘋新聞網",
-  "https://news.nextapple.com/finance/20260123/567DA4F98218A6CCD0CE196E8BFA72DA": "零售通路整併新戰局！美廉社1.25億元吃下OK超商100%股權｜壹蘋新聞網",
-  "https://news.nextapple.com/entertainment/20260123/6E222A873B5AB6C942E4269BA6A648F7": "玉澤演台中long stay抗烈日有法寶　抹Kiehl’s急護霜守護自己｜壹蘋新聞網",
-  "https://www.knews.com.tw/news/DD12BC22E82642DE45088D42E1662ED5": "快訊｜三立採訪車撞彰銀吉林分行　8傷２昏迷！分送醫院急救｜知新聞",
   "https://udn.com/news/story/7315/9284667": "現場滿目瘡痍！三立電視車輛失控衝撞北市彰化銀行 已知6人受傷送醫",
   "https://udn.com/news/story/7266/9284664": "自燃事件頻傳…北捷釋出新公告「進站勿使用行動電源」出事將求償",
   "https://news.tvbs.com.tw/local/3108845": "3重傷7輕傷！三立採訪車撞進銀行　10人濺血傷勢曝光│TVBS新聞網",
@@ -998,5 +988,15 @@
   "https://news.ltn.com.tw/news/society/breakingnews/5323473": "擷女子IG美照「AI換臉」變全裸性愛片 樂團攝影師被起訴",
   "https://news.ltn.com.tw/news/life/breakingnews/5323455": "自曝大學填數學、化學 蕭美琴笑稱：有時會後悔是不是走錯行",
   "https://ec.ltn.com.tw/article/breakingnews/5323428": "旋轉豪宅「陶朱隱園」今開箱造價5億元庭院",
-  "https://news.ltn.com.tw/news/life/breakingnews/5323077": "週末季風再增強！ 氣象粉專：水氣增多、日夜溫差大"
+  "https://news.ltn.com.tw/news/life/breakingnews/5323077": "週末季風再增強！ 氣象粉專：水氣增多、日夜溫差大",
+  "https://news.nextapple.com/entertainment/20260127/F80892D12B230F505DA1BC2FCA342D77": "「森恬CP」神複製《難哄》名場面！　李子森惹怒杜忻恬竟不自覺｜壹蘋新聞網",
+  "https://news.nextapple.com/entertainment/20260127/AD34ED1AE538F7256E12D88E40E6C6F9": "任豪扮女裝羞到躲起來　李嘉琦興奮逗弄握多張私照｜壹蘋新聞網",
+  "https://news.nextapple.com/entertainment/20260127/E9DE12B79E8C3CAC88C7DE37F327F604": "創作男星為發片剷肉8公斤　頻飛星馬被「這食物」快逼出鼻血｜壹蘋新聞網",
+  "https://news.nextapple.com/entertainment/20260127/BA8F97AA02B293C1C606E1BAA0F3826F": "韓流拼盤演唱會卡司豪華多元　EXO SUHO深情獻唱臺灣歌迷｜壹蘋新聞網",
+  "https://news.nextapple.com/entertainment/20260127/6FD4C08106E8B4216DA20324DE3CFA00": "賈永婕曝兩人對話　抱怨霍諾德沒做到一件事｜壹蘋新聞網",
+  "https://www.ctwant.com/article/467768/": "賈永婕不忍怨「答應過會減速」　霍諾德喊：我有啊！90變91分鐘 | 生活",
+  "https://www.setn.com/News.aspx?NewsID=1786997": "點眼藥水自傷近全盲詐保失算　2男判刑",
+  "https://finance.ettoday.net/news/3108442": "2026世貿年貨大展4天吸引38萬人次　媽祖護佑、公益傳愛雙滿載",
+  "https://www.mnews.tw/story/20260127sot1300008": "越晚越低溫！　大台北局部雨入夜再轉強",
+  "https://news.ltn.com.tw/news/society/breakingnews/5323518": "阿伯趕上班公車離站不給上 肉身怒擋司機3分鐘挨告"
 }
