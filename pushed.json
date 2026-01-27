@@ -1,14 +1,4 @@
 {
-  "https://www.setn.com/News.aspx?NewsID=1785392": "三立採訪車撞進彰化銀行　監視器畫面曝光",
-  "https://www.setn.com/News.aspx?NewsID=1785380": "三立採訪車撞進銀行　駕駛說法曝光",
-  "https://www.ettoday.net/news/20260123/3106464.htm": "彰銀整面牆被撞穿！三立採訪車拖出畫面曝　嚴重變形車頭全毀吊離",
-  "https://www.ettoday.net/news/20260123/3106459.htm": "採訪車撞銀行釀10傷！三立電視完整聲明曝：內部即刻成立專案小組",
-  "https://www.chinatimes.com/realtimenews/20251229003792-260402": "新北男網路鼓吹「孤狼攻擊」　屏檢諭知8萬交保",
-  "https://news.tvbs.com.tw/local/3108956": "撞擊瞬間曝！三立採訪車「完全沒煞車」撞進彰銀　10人遭掃過噴飛│TVBS新聞網",
-  "https://news.tvbs.com.tw/local/3108941": "三立採訪車撞彰銀10傷　律師：駕駛面臨3年刑、電視台連帶賠償│TVBS新聞網",
-  "https://news.tvbs.com.tw/local/3108932": "三立採訪車撞進彰銀釀10輕重傷　駕駛聲稱：車子轉速突提高│TVBS新聞網",
-  "https://www.mirrormedia.mg/story/20260123edi076": "有片／三立採訪車失控撞進彰化銀行「驚悚瞬間曝」　內部磚牆倒塌嚇壞民眾",
-  "https://www.mirrormedia.mg/story/20260123edi077": "三立採訪車「失控衝進銀行」初步調查曝光　三立新聞台發聲明：盡最大誠意負責",
   "https://www.mnews.tw/story/20260123nm026": "頻傳行動電源起火！北捷籲搭車勿使用　釀失火將依法究辦求償",
   "https://www.mnews.tw/story/mm-20260123edi077": "三立採訪車「失控衝進銀行」初步調查曝光　三立新聞台發聲明：盡最大誠意負責",
   "https://www.mnews.tw/story/20260123sot1300010": "玉澤演現身信義區！　嗨曝好消息：在準備演唱會",
@@ -998,5 +988,15 @@
   "https://news.nextapple.com/finance/20260127/926C75C3C0F7A2BFBFC32B7022C94C85": "旺宏Q4財報｜毛利率回升至24.2%　每股虧損收斂至0.16元｜壹蘋新聞網",
   "https://www.knews.com.tw/news/8F439DDD4AB0ADA3C3D368CAE91AED83": "採訪車恐怖暴衝！撞進彰銀10人輕重傷　三立電視道歉：盡最大誠意負責｜知新聞",
   "https://www.knews.com.tw/news/06CF28624CA863C3CF9B32A086C4C2B8": "有片｜驚悚撞擊瞬間曝光！三立採訪車半截塞進彰化銀行　行人被撞飛釀10傷｜知新聞",
-  "https://www.mnews.tw/story/mm-20260127food001": "試吃筆記／名廚鄺啟明師徒6手聯彈好驚豔！「玖尹」打破粵菜框架　端出加料版蒜頭雞湯、上湯龍蝦、黃魚麵"
+  "https://www.mnews.tw/story/mm-20260127food001": "試吃筆記／名廚鄺啟明師徒6手聯彈好驚豔！「玖尹」打破粵菜框架　端出加料版蒜頭雞湯、上湯龍蝦、黃魚麵",
+  "https://news.nextapple.com/life/20260127/879F5287E42D54FB6C3F7ED749AB4E7E": "野驢呷胡蘿蔔超古錐！北市動物園每週六推保育導覽｜壹蘋新聞網",
+  "https://news.nextapple.com/entertainment/20260127/6C68012BE7E8A80C1A9EB3022E4829A4": "高訂秀｜Jonathan Anderson的時空首秀　開啟隕石與花卉的美學實驗｜壹蘋新聞網",
+  "https://news.nextapple.com/finance/20260127/52D15D76CC99F17F49E1D6A29D602E3E": "力成Q4財報｜AI與記憶體需求回溫助攻　獲利18.64億創8季高點｜壹蘋新聞網",
+  "https://news.nextapple.com/finance/20260127/EBD31A5839F0169C54EC06EE009DD861": "12億超豪宅「陶朱隱園」今首度開箱　5億打造生態庭園5百年羅漢松佇立｜壹蘋新聞網",
+  "https://news.nextapple.com/entertainment/20260127/277F3FA4EA96B215E32AB35DD0221B1E": "葛兆恩與牛深情對話　突失控跑到海邊脫褲子　｜壹蘋新聞網",
+  "https://news.nextapple.com/finance/20260127/F53BACB039D9EEB711873CA69B7A70F7": "美光砸7550億新加坡擴產！先進NAND晶圓廠動土　2028年下半年量產｜壹蘋新聞網",
+  "https://news.nextapple.com/life/20260127/CDFAE2861AAEE65438054FC2C4053EFB": "義大世界設施卡軌道！2名孩童受困求救　官方今曝原因｜壹蘋新聞網",
+  "https://www.chinatimes.com/realtimenews/20251229003792-260402": "新北男網路鼓吹「孤狼攻擊」　屏檢諭知8萬交保",
+  "https://www.mnews.tw/story/20260127nm017": "美饒舌教父Snoop Dogg曬AI片爽登台北101　「國旗」細節成亮點",
+  "https://www.mnews.tw/story/mm-20260127edi021": "霍諾德徒手爬101耳機在播什麼？歌單揭曉　本人再曝：其實幾乎都聽不到"
 }
