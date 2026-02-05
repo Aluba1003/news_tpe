@@ -1,15 +1,4 @@
 {
-  "https://news.ebc.net.tw/news/living/535444": "嚇人！住台北車站附近商旅 床墊上都是蝨子｜東森新聞",
-  "https://udn.com/news/story/7266/9300767": "25年來首例漢他病毒確診亡 疾管署曝好發春季、大掃除應注意這幾點",
-  "https://news.tvbs.com.tw/local/3116282": "北市國中生大安捷運站轉乘迷途　「仙氣女警」暖心護送返家│TVBS新聞網",
-  "https://news.ltn.com.tw/news/society/breakingnews/5328399": "罰不怕！北市「滿越養生館」一再掛羊頭賣狗肉  北市府強勢斷水電",
-  "https://www.cna.com.tw/news/ahel/202601315002.aspx": "0125-0131一週大事 | 生活",
-  "https://news.nextapple.com/entertainment/20260131/D2C21B9E91B3EEADBBD35C6EEDA76BC7": "Lu典婚禮「紅包被公審」！孫協志2/14辦婚宴　直言：無理取鬧｜壹蘋新聞網",
-  "https://news.nextapple.com/life/20260131/D4B31790C5A151C0BA90CDA7DE92A22F": "今夜可追雪！冷空氣將達大陸冷氣團　3000公尺高山有下雪機率｜壹蘋新聞網",
-  "https://udn.com/news/story/7266/9300910": "不僅飄異味 北車某知名旅館遭控床蝨到處爬！北市府下令全館清消",
-  "https://www.mnews.tw/story/mm-20260131edi033": "韓粉新年願望「院長馬上長頭髮」　韓國瑜妙回：跟李佳芬生娃一樣難",
-  "https://news.nextapple.com/politics/20260131/7CF672CC1B714847FAA89194DB79B3C3": "國民黨中常委選舉結果出爐　「美女藍委」獲第一高票！29席完整名單曝光｜壹蘋新聞網",
-  "https://news.nextapple.com/politics/20260131/2C7A02CA3103A188A95B137BFD1E6D65": "韓國瑜發限量版馬年春聯　現場民眾踴躍合照｜壹蘋新聞網",
   "https://news.nextapple.com/entertainment/20260131/BC927D882660C5B0E28A30E86E423A87": "Magenta驚喜助陣　温昇豪穩住現場｜壹蘋新聞網",
   "https://www.setn.com/News.aspx?NewsID=1789180": "北投婦過馬路遭撞亡　司機沒和解仍獲緩刑",
   "https://www.mnews.tw/story/20260131sot1800005": "燈節聯手「泡泡瑪特」遭文化入侵？　觀傳局：由台灣製作",
@@ -998,5 +987,16 @@
   "https://www.mnews.tw/story/mm-20260205edi052": "歷經偷拍、違建風波　北投皇池確定「3月底停業」花3年改建！業者：砂鍋粥會繼續賣",
   "https://news.ltn.com.tw/news/society/breakingnews/5333627": "2度到北市忠孝西路天橋意圖輕生 「抗議常客」被強制送醫",
   "https://news.ltn.com.tw/news/life/breakingnews/5333621": "未註明「演練」！ 突收北捷重大案件告警 網嚇壞罵翻雙北政府",
-  "https://www.cna.com.tw/news/ahel/202602055004.aspx": "漢他病毒如何防範？傳染途徑是什麼？防鼠攻略一次看 | 生活"
+  "https://www.cna.com.tw/news/ahel/202602055004.aspx": "漢他病毒如何防範？傳染途徑是什麼？防鼠攻略一次看 | 生活",
+  "https://news.nextapple.com/local/20260205/6E6390DE8AAFDD555175BF24A943DE03": "徐巧芯大姑決裂丈夫杜秉澄　控說謊已寄離婚協議書｜壹蘋新聞網",
+  "https://news.nextapple.com/entertainment/20260205/BB701F361AA385EC37088EED481059AE": "《You Raise Me Up》美聲天王2月登台！喬許葛洛班邀閻奕格助陣｜壹蘋新聞網",
+  "https://news.nextapple.com/politics/20260205/4798A628F33358B3A93146190CA64A1B": "賴清德指「九二共識等於一國兩制」　國民黨反擊：帶頭造謠｜壹蘋新聞網",
+  "https://news.nextapple.com/entertainment/20260205/E60A95623DFB31A9369443CCAF15E105": "大S離世週年！白冰冰落淚曝與S媽私下對話    喊話具俊曄回歸｜壹蘋新聞網",
+  "https://news.nextapple.com/local/20260205/152E6025A23A334CD6EAE8EDD1E598DE": "「假出金」誘全台425人加碼投資　財損5.7億元！警破詐團水房逮42人｜壹蘋新聞網",
+  "https://news.nextapple.com/entertainment/20260205/85DD4E46A3422FFB95291B4484F4E45D": "被麥可傑克森死訊打擊　吳建豪舞廳徹夜跳舞：回家才落淚｜壹蘋新聞網",
+  "https://news.nextapple.com/life/20260205/63A6BD2DBE49B7FD450134547285962F": "桃園航空城疑沒核定！原定2月全交屋　再放寬獎勵金申請至6月｜壹蘋新聞網",
+  "https://news.nextapple.com/international/20260205/4F6117E9E9A59A405DC19B34D22B526F": "設台灣代表處像「跳到火車前」　立陶宛總理：犯了一個巨大錯誤｜壹蘋新聞網",
+  "https://www.knews.com.tw/news/BC4CBD0F382E4A11F063C665B0F15869": "徐巧芯大姑現身3鞠躬道歉！夫幫詐團洗錢痛批被切割　她曝訴請離婚遭已讀不回｜知新聞",
+  "https://news.ebc.net.tw/news/society/536200": "寧夏夜市旁當街搶705萬 逮6嫌起獲贓款｜東森新聞",
+  "https://news.tvbs.com.tw/local/3120241": "張文案後…全台連3起無差別攻擊　社會安全網再受考驗│TVBS新聞網"
 }
