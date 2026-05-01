@@ -1,14 +1,4 @@
 {
-  "https://www.ettoday.net/news/20260426/3155650.htm": "暴力男北車攻擊女童太惡劣　鐵路警察公布三點強化治安作為",
-  "https://udn.com/news/story/7320/9465089": "街友狠踹菲籍3歲童 鐵警針對「北車0425案」3箭加強安全維護",
-  "https://udn.com/news/story/7315/9464980": "北車菲籍女童遭無故攻擊 鐵警加強定點守望3作為",
-  "https://udn.com/news/story/7315/9464772": "男攻擊3歲女童有反覆實施及逃亡之虞 遭羈押禁見",
-  "https://www.chinatimes.com/realtimenews/20260426001360-260402": "美籍男爛醉大鬧西門町  沿路推倒8台機車遭逮",
-  "https://www.mirrordaily.news/story/57564": "「醉」後西門町！美籍男喝茫暴走推倒8機車　獲台灣警局一日遊",
-  "https://news.tvbs.com.tw/local/3188181": "10天2度犯案！北車怪男隨機攻擊菲籍女童　檢認「恐再犯」聲押│TVBS新聞網",
-  "https://www.mnews.tw/story/20260426sot120004": "備戰2026大選　藍綠「喬」人選明朗化1／沈伯洋戰北市呼聲高　蘇巧慧：有信心「他就是最強王牌」",
-  "https://www.mnews.tw/story/20260426sot120001": "川普晚宴爆槍擊　美伊談判卡關時機巧1／出席白宮記者晚宴傳槍響！　川普公開槍手照片",
-  "https://news.ltn.com.tw/news/society/breakingnews/5416320": "廚師交友被洗腦投資虛幣損失60萬 警趁面交狂奔百米逮車手",
   "https://news.nextapple.com/local/20260426/A8342B664AC753714686F3CF02A04A69": "防潰壩災情！花蓮補發近3千避難包　30日大規模撤離演練｜壹蘋新聞網",
   "https://news.nextapple.com/local/20260426/C59A43CBF12634C79A3AFE96D261AAFE": "應曉薇遭盜圖設IG帳號　誘投資群組吸金｜壹蘋新聞網",
   "https://news.nextapple.com/entertainment/20260426/B9433861DD655B966E3707E47A98BA86": "曾沛慈《浪姐7》脫口「祖籍泉州」　網友炸鍋：最不想的事情發生了｜壹蘋新聞網",
@@ -998,5 +988,15 @@
   "https://news.ltn.com.tw/news/society/breakingnews/5422370": "北市北投區驚見迷你馬逛大街    警緊急帶回安置",
   "https://news.ltn.com.tw/news/society/breakingnews/5422353": "水球襲擊台聯黨主席周倪安 17歲少年被逮稱「不認同訴求」",
   "https://sports.ltn.com.tw/news/breakingnews/5422355": "中職》台鋼雄鷹表揚王柏融達成生涯百轟 栗山英樹錄製影片祝賀",
-  "https://ent.ltn.com.tw/news/breakingnews/5422233": "爆淚！林逸欣醫生父親告別式遺照曝光  留下「四字」親友動容"
+  "https://ent.ltn.com.tw/news/breakingnews/5422233": "爆淚！林逸欣醫生父親告別式遺照曝光  留下「四字」親友動容",
+  "https://news.nextapple.com/entertainment/20260501/3C487680A98C9AF9196FB9C1B67F4660": "專訪｜男星被摯友騙去廣西老鼠會　還原「逃回台灣」過程｜壹蘋新聞網",
+  "https://news.nextapple.com/life/20260501/AEBC1C585E3C79493D3F27ADA0C0DCD6": "把握明日好天氣！回暖最高33度　注意焚風、霧影響航班｜壹蘋新聞網",
+  "https://news.nextapple.com/entertainment/20260501/5616C8F5BC28E4CA3EE91A3DC5FCE725": "韓啦啦隊3女神金海莉、李藝斌、鄭熙靜在台合體　角色扮演吸人潮｜壹蘋新聞網",
+  "https://news.nextapple.com/entertainment/20260501/F33664E4E2E6C9603D7893B8414C91B8": "網紅融融泰國賽車疑過彎失控　撞山壁慘遭追撞｜壹蘋新聞網",
+  "https://www.knews.com.tw/news/05BB872C20D265054D6FC6363F1AE699": "有片｜迷你馬北投逛大街！報案電話打爆警局　理髮店老闆神救援｜知新聞",
+  "https://www.knews.com.tw/news/AE0281888DE3C878651F3EEE6834F8A7": "40歲男狠踹3歲女童非首犯！10天前松山車站也打人　鐵路警：已列重點監控對象｜知新聞",
+  "https://www.setn.com/News.aspx?NewsID=1832066": "迷你馬脫逃爽逛大業路　學路人穿越斑馬線",
+  "https://udn.com/news/story/7320/9476662": "影／北投驚見「迷你馬逛大街」 理髮廳老闆專業制伏...飼主將挨罰",
+  "https://www.mnews.tw/story/20260501sot180005": "知名房仲帶看被毆　疑遭設局報復1／假看房真尋仇？　名房仲遭黑衣男突襲毆傷",
+  "https://www.mnews.tw/story/mm-20260501edi027": "皇池砂鍋粥回來了！全新店面公開　網疑「這裡可泡湯？」真相曝光"
 }
