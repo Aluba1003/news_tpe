@@ -1,15 +1,4 @@
 {
-  "https://news.ltn.com.tw/news/art/breakingnews/5495696": "第2屆台北戲劇獎今晚頒獎   揭曉15項大獎直播看這裡",
-  "https://news.ltn.com.tw/news/society/breakingnews/5495755": "新莊婦拿千萬金塊投資虛幣  車手「埋包」垃圾桶被警逮正著",
-  "https://news.ltn.com.tw/news/society/breakingnews/5495784": "水泥預拌車疑未保持安全車距  重陽橋上4車連撞2駕駛受傷",
-  "https://news.ltn.com.tw/news/society/breakingnews/5495699": "巴威颱風恐襲台 北市消防局全面整備救災能量",
-  "https://news.ltn.com.tw/news/society/breakingnews/5495676": "抓到了！男子北車M8出口亂噴防狼噴霧 坐車到台中被警攔截",
-  "https://news.ltn.com.tw/news/society/breakingnews/5495679": "北市精舍命案「3大女護法」剩她被押 喊20多年無工作沒錢、求無保請回",
-  "https://ec.ltn.com.tw/article/breakingnews/5495557": "長榮集團遭搜索  長榮回應了",
-  "https://news.ltn.com.tw/news/society/breakingnews/5495526": "獨家》疑涉內線交易 長榮集團今遭檢調搜索",
-  "https://news.ltn.com.tw/news/society/breakingnews/5495517": "6旬男酒駕罰鍰9萬欠10年！執行署成功追債 再助戒酒癮",
-  "https://www.cna.com.tw/news/asoc/202607060219.aspx": "北車M8出口噴防狼噴霧　警查獲台中7旬翁",
-  "https://www.cna.com.tw/news/asoc/202607060155.aspx": "北車M8出口民眾狂咳 男朝自身噴防狼噴霧釀禍案",
   "https://news.nextapple.com/local/20260706/F7AF664FF8B387B87D2CE1E46A40DDEC": "長榮海運爆內線交易　張國政抵北檢！現場推擠混亂｜壹蘋新聞網",
   "https://news.nextapple.com/life/20260706/13B4209C47ADBEDEC9A257853BA60E7B": "蒙古帝國820週年！成吉思汗半身像睽違13年在故宮展出｜壹蘋新聞網",
   "https://news.nextapple.com/finance/20260706/BAC4DE89E1A5A965004750BC8EB48B1E": "12.9萬人注意！00400A新公告　報稅族快看「這一點」 ｜壹蘋新聞網",
@@ -998,5 +987,16 @@
   "https://www.mnews.tw/story/mm-20260711edi034": "不斷更新／巴威襲台！高雄5區雨量達標　全台各縣市停班停課情況一次看",
   "https://news.ltn.com.tw/news/life/breakingnews/5502056": "巴威暴風圈縮小加速移動 本島最快今天深夜解除陸警",
   "https://ent.ltn.com.tw/news/breakingnews/5502015": "台灣5億高中生命案搬上港劇！公公「霸王硬上弓」媳婦 亂倫真相震碎三觀",
-  "https://www.cna.com.tw/news/aloc/202607110165.aspx": "颱風巴威災後復原　北市新北垃圾車12日加班收運"
+  "https://www.cna.com.tw/news/aloc/202607110165.aspx": "颱風巴威災後復原　北市新北垃圾車12日加班收運",
+  "https://news.nextapple.com/life/20260711/3252ADA221B4D0AA0658CD9F731EF5BF": "巴威颱風暴風圈縮小　北部、宜蘭、馬祖仍要當心｜壹蘋新聞網",
+  "https://news.nextapple.com/local/20260711/ECD9C00F1C7822EEE5FAF7FB4134A986": "講不聽！無視巴威警戒　海巡今再舉發8人闖禁區...驚見逃逸移工｜壹蘋新聞網",
+  "https://ctinews.com/news/items/4XamjmwjxA": "影/網發北車月台泡水照喊「進不去」　警速逮無聊男",
+  "https://ctinews.com/news/items/JmxNm4eRa8": "影/颱風殺人兇器？西門町驚傳「磁磚雨」　少年頭部遭砸傷",
+  "https://www.ettoday.net/news/20260711/3199400.htm": "北投泉源路「大量落石滑落」！警方緊急拉封鎖線管制 | ETtoday社會新聞",
+  "https://www.ettoday.net/news/20260711/3199395.htm": "快訊／西門町大樓外牆磁磚突墜落　1少年頭部撕裂傷送醫 | ETtoday社會新聞",
+  "https://www.ettoday.net/news/20260711/3199391.htm": "快訊／巴威強風「北市路樹倒塌」！壓毀6機車、屋簷　現場緊急封鎖 | ETtoday社會新聞",
+  "https://udn.com/news/story/7320/9621776": "巴威風雨襲北市！西門町外牆磁磚突掉落 少年遭砸傷頭部送醫",
+  "https://www.chinatimes.com/realtimenews/20260711002591-260402": "巴威颱風意外！漢中街外牆磁磚「天降凶器」 少年濺血送醫",
+  "https://news.tvbs.com.tw/local/3255014": "快訊／巴威強風吹落磁磚！西門町1少年「頭部被砸」送醫│TVBS新聞網",
+  "https://news.ltn.com.tw/news/society/breakingnews/5502102": "西門町大樓磁磚突剝落 路過10多歲少年遭砸頭爆血送醫"
 }
