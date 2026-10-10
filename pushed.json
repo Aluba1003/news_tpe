@@ -1,12 +1,4 @@
 {
-  "https://news.nextapple.com/local/20261008/5ED4C138503F1C304F45ABC9E6F36B9D": "柯文哲聲請有利證據　高院裁准重製「遭扣押3支手機對話」",
-  "https://news.nextapple.com/entertainment/20261008/4F1BDDB057153E9D1FFAD1718350C62D": "大讚王偉忠、趙少康「硬頸」　王小棣：給民主帶來一股好空氣",
-  "https://news.nextapple.com/politics/20261008/93D7D66BD9853844DA175D1F5647A07C": "財經專家喊「巨星誕生」　預言沈伯洋：若當選市長 未來可能選總統",
-  "https://udn.com/news/story/124652/9802548": "談辯論喊「題目設定好沒意義」 沈伯洋下戰帖：期待無限交叉詰問",
-  "https://udn.com/news/story/124652/9802544": "規畫松山機場遷移「非常關鍵、重要一刻」 蔣萬安：與中央攜手規畫",
-  "https://udn.com/news/story/7323/9802540": "雙北連線 林亮君、戴瑋姍合體顏蔚慈蘆洲掃街",
-  "https://udn.com/news/story/6885/9802536": "明年首次營養師、護理師、社工師考試 將於2月20、21日舉行",
-  "https://udn.com/news/story/7314/9802521": "疫後松機國際及兩岸線運量回升快 商務客最愛由此進出",
   "https://udn.com/news/story/124652/9802513": "松機遷建關鍵時刻？蔣萬安舉例50年前竹科及半導體產業",
   "https://udn.com/news/story/124652/9802473": "蔣萬安規畫遷移松機做AI園區 學者憂：有顧此失彼風險",
   "https://udn.com/news/story/6885/9802364": "協助毒品查緝快篩 中研院院士團隊獲台北生技獎",
@@ -985,7 +977,7 @@
   "https://ec.ltn.com.tw/article/breakingnews/5601582": "快評》沒電力配套哪來AI園區？輝達難喊台北安可！",
   "https://news.ltn.com.tw/news/politics/breakingnews/5601588": "李彥秀稱「社工在社區發毒品」 沈伯洋怒批造謠：蔣萬安要道歉嗎？",
   "https://news.ltn.com.tw/news/society/breakingnews/5601594": "北市中山區公寓凌晨起火 3住戶送醫、其中1女昏迷",
-  "https://news.ltn.com.tw/news/politics/breakingnews/5601578": "選前不會辭立委 沈伯洋：當台北市長靠能力與勇氣無需以此證明",
+  "https://news.ltn.com.tw/news/politics/breakingnews/5601578": "選前不會辭立委 沈伯洋：當台北市長靠能力與勇氣不需以此證明",
   "https://news.ltn.com.tw/news/politics/breakingnews/5601576": "蔣萬安拋松機遷建 石崇良：須考量偏鄉離島醫療後送",
   "https://news.ltn.com.tw/news/politics/breakingnews/5601568": "秦慧珠爆4年前曾牽線蔣萬安會宋楚瑜沒下文 沈伯洋：可能蔣太忙......",
   "https://talk.ltn.com.tw/article/breakingnews/5600780": "林健正專區》松機遷建：AI產業的想像與都市再生的機會",
@@ -998,5 +990,13 @@
   "https://udn.com/news/story/7331/9806060": "蔡康永的「見識一下」 見證台灣藝人避談政治時代終結",
   "https://udn.com/news/story/7266/9806058": "他能翻轉貧病交迫街友人生 只因無名氏醫師問了一句話",
   "https://news.nextapple.com/local/20261008/FF6CE9A3A01ECD423E14C53350DF6524": "保護蔡康永！防共軍跨境鎮壓　警方「增設1物」維安措施曝光",
-  "https://udn.com/news/story/7321/9788152": "獄政弊案大逆轉！王令麟、北監前副典獄長蘇清俊全無罪 高院理由曝光"
+  "https://udn.com/news/story/7321/9788152": "獄政弊案大逆轉！王令麟、北監前副典獄長蘇清俊全無罪 高院理由曝光",
+  "https://news.ltn.com.tw/news/politics/breakingnews/5601531": "蔣萬安競選MV也出包 王定宇：可能只有「抹黑沈伯洋」用心推動",
+  "https://news.ltn.com.tw/news/politics/breakingnews/5601617": "李彥秀稱「社工會在社區發毒品」惹議 蔣萬安：源頭是沈伯洋文章",
+  "https://news.ltn.com.tw/news/politics/breakingnews/5601600": "蔣萬安競選歌曲MV爆侵權致歉 沈伯洋：每個人都會犯錯態度最重要",
+  "https://udn.com/news/story/7266/9806129": "汙名化社工在社區發放毒品？社工師全聯會要求李彥秀道歉、衛福部說明",
+  "https://udn.com/news/story/6656/9806126": "台北市府前旗海飄揚 蔣萬安曝國慶願望之一「打造AI台北」",
+  "https://udn.com/news/story/7266/9806101": "蔣萬安拋松機遷移 醫憂東部和離島醫療 石崇良：凸顯需更廣泛討論",
+  "https://udn.com/news/story/124652/9806092": "影／藍營控媒宣費養網軍 沈伯洋斥造謠濫砍預算",
+  "https://news.nextapple.com/local/20261008/5ED4C138503F1C304F45ABC9E6F36B9D": "柯文哲聲請有利證據　高院裁准重製「遭扣押3支手機對話」"
 }
