@@ -1,13 +1,4 @@
 {
-  "https://udn.com/news/story/7251/9832133": "薔琵颱風來襲！台股明天休市一天 台北匯市同步暫停交易",
-  "https://udn.com/news/story/125052/9832129": "薔琵颱風逼近 蔣萬安視察捷運工區防颱防汛整備、籲市民做好防颱準備",
-  "https://udn.com/news/story/7251/9832123": "北北基放颱風假了！證交所宣布台股連休四天 27日才開盤",
-  "https://udn.com/news/story/125052/9832060": "薔琵颱風逼近 北北基桃四市明日停班停課",
-  "https://udn.com/news/story/7328/9832049": "台東跨年太熱門！立委偕縣府協調交通部 增跨年航班",
-  "https://udn.com/news/story/7321/9826649": "上櫃公司前總經理涉違證交法 檢調兵分10路搜索",
-  "https://udn.com/news/story/7321/9803752": "南港分局警紀再出包 員警勾結博弈業者拉賭客抽佣遭檢方聲押禁見",
-  "https://ec.ltn.com.tw/article/breakingnews/5615669": "沈伯洋提「股市與停班停課脫鉤」 金管會：持續研議可行性",
-  "https://news.ltn.com.tw/news/politics/breakingnews/5615437": "蔣萬安競選曲用市政宣傳片 苗博雅爆：不在北市府授權清單",
   "https://news.ltn.com.tw/news/politics/breakingnews/5615627": "蔣萬安視察防颱遭里長當面開嗆！陳峙穎怒批：別拿基層當作秀工具",
   "https://udn.com/news/story/6885/9832201": "中正紀念堂「自由花蕊」留言牆 多元意見並陳",
   "https://udn.com/news/story/123006/9832220": "主動復華台灣新星 募集期順延至10月27日",
@@ -901,7 +892,7 @@
   "https://news.nextapple.com/local/20261022/73DD732FA234D884B8F56B4B7F7856A6": "為「南萬華教父」乾爹報仇　2煞砍斷天道盟大咖腳筋！酌減2月刑期",
   "https://udn.com/news/story/7321/9831512": "李貞秀首戰失利！保竹北市長參選資格「三箭齊發」 假處分遭駁理由曝",
   "https://udn.com/news/story/7321/9817257": "不滿遭指替山口組洗錢 南懷瑾兒告3媒體求撤7新聞吞敗",
-  "https://ent.ltn.com.tw/news/breakingnews/5618181": "金鐘61》紀實節目主持人許琡婷 《極樂世界之好好出門》奪節目獎",
+  "https://ent.ltn.com.tw/news/breakingnews/5618181": "金鐘61》曾寶儀《我們回家吧》得獎  忍不住淚崩",
   "https://news.nextapple.com/entertainment/20261025/D3BFDBACF6CBFCCAC53756A6FBF75788": "金鐘紅毯｜小禎一身亮黃色　笑搭胡瓜「美女與野獸」",
   "https://udn.com/news/story/7323/9836395": "影/出席鍾沛君競總成立 蔣萬安：台北進步要「安可」",
   "https://udn.com/news/story/124652/9836385": "南投也打「洋流牌」！綠營大咖挺温世政、張媛婷 中庄仔甘蔗也來了",
@@ -998,5 +989,14 @@
   "https://udn.com/news/story/7315/9836598": "錯過班車氣噗噗！北車醉漢作勢攻擊副站長 遭依現行犯逮捕送辦",
   "https://udn.com/news/story/7003/9836583": "TPBL／5天準備都泡湯 颱風打亂特攻備戰",
   "https://udn.com/news/story/7321/9826664": "王鴻薇爆卓榮泰喬貸款案涉誹謗 「吹哨者」作證：只是陳情工作超時",
-  "https://udn.com/news/story/7315/9817638": "影／檢察官吸毒 黃國昌再批鄭銘謙：民眾黨一定追究到底"
+  "https://udn.com/news/story/7315/9817638": "影／檢察官吸毒 黃國昌再批鄭銘謙：民眾黨一定追究到底",
+  "https://news.ltn.com.tw/news/politics/breakingnews/5618479": "漏網鏡頭》沒有爆！陳賢蔚競總成立  吳思瑤驚呼：好險",
+  "https://ent.ltn.com.tw/news/breakingnews/5618507": "（直擊）51歲林志玲豁出去！小巨蛋熱跳《心電心》撒嬌：我有努力唷",
+  "https://news.ltn.com.tw/news/politics/breakingnews/5618497": "蔣萬安出席艋舺公園表演活動  男子喊「我們的市長沈伯洋」現場一度沉默",
+  "https://news.ltn.com.tw/news/society/breakingnews/5618481": "醉漢錯過火車硬闖北車站長室 持保溫瓶攻擊副站長反遭制伏",
+  "https://news.nextapple.com/entertainment/20261025/D530E79982FE4169F7E5A9EB07098E3B": "金鐘獎｜典禮第一波罵聲！她「致詞超時」不下台　連姐夫都謝了",
+  "https://udn.com/news/story/124652/9836638": "沈伯洋稱防災遊戲「恐嚇」韋淳祐反擊：宣導酒駕害人也叫恐嚇？",
+  "https://udn.com/news/story/7001/9836627": "中職／G6勝騎士對決梅賽鍶 若還有G7場地改至桃園棒球場",
+  "https://www.cna.com.tw/news/asoc/202610250176.aspx": "北市男疑票務問題  闖北車值班站欲毆副站長遭逮",
+  "https://udn.com/news/story/7321/9826649": "上櫃公司前總經理涉違證交法 檢調兵分10路搜索"
 }
