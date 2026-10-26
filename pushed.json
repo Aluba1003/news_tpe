@@ -1,11 +1,4 @@
 {
-  "https://udn.com/news/story/7323/9834120": "北市災防辦今晚發布強風提醒 陽明山區文化大學、大屯山陣風達14級",
-  "https://udn.com/news/story/124652/9834119": "藍白合爭取柯文哲支持？蔣萬安：非常願意跟柯前市長請益",
-  "https://udn.com/news/story/125052/9834107": "薔琵颱風發威！北市路樹倒塌近300件 建國北路、民生東路連傳災情",
-  "https://news.ltn.com.tw/news/society/breakingnews/5616908": "北市石牌國中旁晚間路樹倒塌意外 35歲女騎士受傷送醫",
-  "https://news.ltn.com.tw/news/politics/breakingnews/5616901": "稱蔣萬安正找回自信 藍營：洋流已登頂 沈伯洋將受民眾檢驗",
-  "https://udn.com/news/story/124652/9834251": "談大寶蔣得立交換生事件 蔣萬安曝慈父心：有些不捨也會難過",
-  "https://udn.com/news/story/124652/9834230": "評「洋流」確實激起熱情 蔣萬安坦言：我和我的支持者都比較慢熱",
   "https://udn.com/news/story/125052/9834168": "10縣市豪雨特報 宜蘭山區留意超大豪雨",
   "https://udn.com/news/story/7266/9834195": "北北桃24日停班停課 機捷普通車維持15分鐘班距",
   "https://news.ltn.com.tw/news/society/breakingnews/5616914": "薔琵颱風強風吹垮頂樓鐵柵欄 萬華警方緊急封鎖現場",
@@ -940,7 +933,7 @@
   "https://news.ltn.com.tw/news/politics/breakingnews/5619237": "蔣萬安掃地挨酸作秀！李正皓掀舊事酸：當藍裝平民就代表選情不妙",
   "https://sports.ltn.com.tw/news/breakingnews/5619264": "台灣大賽》連2天準備3.4萬條彩帶 味全龍預約隊史第6冠",
   "https://ent.ltn.com.tw/news/breakingnews/5619139": "金鐘61》戲劇類金鐘將登場 男女主角獎史上最強廝殺",
-  "https://news.nextapple.com/entertainment/20261026/2769923101CD22794613A4AFC7833BAD": "金鐘紅毯｜于子育排灣族大禮服隆重搶雙獎　方郁婷、林廷憶一甜一酷",
+  "https://news.nextapple.com/entertainment/20261026/2769923101CD22794613A4AFC7833BAD": "金鐘紅毯｜鍾欣凌點名許光漢演親密戲　楊祐寧引爆尖叫聲",
   "https://news.nextapple.com/politics/20261026/573F3E5E4294747E845F6986703DDCA9": "蔡康永待近90分鐘！蔣萬安競總成立禿子、漢子、燕子再次「三子合體」　現場破5萬人擠爆",
   "https://udn.com/news/story/7001/9837885": "中職／大巨蛋6戰湧進23萬615人 再創總冠軍賽最瘋狂紀錄",
   "https://udn.com/news/story/124652/9837877": "吹藍營反攻號角 蔣萬安競總成立感性吐露：不好意思大家擔心了",
@@ -998,5 +991,12 @@
   "https://udn.com/news/story/7321/9819481": "男趴跪水深32公分大排詭亡 家屬理賠遭拒⋯提告逆轉獲賠500萬",
   "https://udn.com/news/story/7320/9819461": "隨地小便被打！北車南三門爆街友鬥毆 「2打1」還踹臉遭告傷害",
   "https://udn.com/news/story/7320/9809385": "搭公車「拍車門沒招手」爆衝突 乘客肘擊司機飆粗口「問候媽媽」",
-  "https://udn.com/news/story/7321/9809350": "女警「賓利姐」遭判刑12年否認貪汙 認了「情感交流」替男友盜查個資"
+  "https://udn.com/news/story/7321/9809350": "女警「賓利姐」遭判刑12年否認貪汙 認了「情感交流」替男友盜查個資",
+  "https://news.ltn.com.tw/news/politics/breakingnews/5619218": "中官媒光復節釋出台北超高清空拍 網驚：幫宣傳蔣萬安砍樹政績！",
+  "https://ent.ltn.com.tw/news/breakingnews/5619401": "金鐘61》謝欣穎紅毯辣翻！黑色禮服「腰側挖空」 迎戰楊貴媚、柯佳嬿爭戲后",
+  "https://ent.ltn.com.tw/news/breakingnews/5619390": "金鐘61》李銘順7度入圍今晚爭迷你劇戲王！認床戲考驗大 吐槽角色：專一一點",
+  "https://news.ltn.com.tw/news/art/breakingnews/5619385": "第21屆「榮三盃全國學生棋王賽」完整決賽名次出爐",
+  "https://news.nextapple.com/entertainment/20261026/6CC54714D2CBEB628300A0BC27E4CBE7": "PSYCHIC FEVER來台愛上水蓮！被拱挑戰「榴槤起司臭豆腐」喊：我先走了",
+  "https://news.nextapple.com/politics/20261026/B01BC4EB9443A0BCA1AB788B6CCC7B1C": "沈伯洋重現「爆炸頭」　坦言：有點想念",
+  "https://udn.com/news/story/6656/9837977": "影／韓國瑜：台灣民主已到危險時刻 籲支持者力挺蔣萬安"
 }
